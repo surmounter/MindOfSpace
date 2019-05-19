@@ -13,3 +13,4 @@
 * 총 다운로드수 : 2,000건
 
 ## 상세 포트폴리오
+* [포트폴리오 슬라이드쇼(Google Slide)](https://docs.google.com/presentation/d/1_Ij1B4WdT_S-ZjukolkFeTeCy7BsewrB11BJk67VXtg/edit?usp=sharing)
